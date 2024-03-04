@@ -1,0 +1,13 @@
+.form-group {
+    margin-bottom: 15px;
+}
+
+.error-message {
+    color: red;
+    font-size: 12px;
+    display: none;
+}
+
+.error-message.show {
+    display: block;
+}
